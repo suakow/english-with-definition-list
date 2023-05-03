@@ -1,3 +1,27 @@
+__author__ = "Puri Phakmongkol"
+__author_email__ = "me@puri.in.th"
+
+"""
+* English with Definition List
+*
+* Created date : 03/05/2023
+*
++      o     +              o
+    +             o     +       +
+o          +
+    o  +           +        +
++        o     o       +        o
+-_-_-_-_-_-_-_,------,      o
+_-_-_-_-_-_-_-|   /\_/\
+-_-_-_-_-_-_-~|__( ^ .^)  +     +
+_-_-_-_-_-_-_-""  ""
++      o         o   +       o
+    +         +
+o      o  _-_-_-_- main.py
+    o           +                     
++      +     o        o      +
+"""
+
 from selenium import webdriver
 from bs4 import BeautifulSoup
 
