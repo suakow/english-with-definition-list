@@ -16,3 +16,9 @@ List คำศัพท์จาก https://github.com/jnoodle/English-Vocabular
 
 - หากต้องการคำศัพท์ที่อยู่ใน Oxford 3000 สามารถเลือก CEFR Level A1 - B2
 - สำหรับ Oxford 5000 ซึ่งเป็นศัพท์ที่ค่อนข้าง Academic สามารถเลือก CERF Level C1 - C2
+
+## Disclaimer
+
+ใช้สำหรับการศึกษาเท่านั้น
+
+For educational purpose only.
